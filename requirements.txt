@@ -1,0 +1,9 @@
+PyQt6
+requests
+paramiko
+telnetlib3
+pyssdp
+scapy
+netifaces
+pycryptodome
+SQLAlchemy
